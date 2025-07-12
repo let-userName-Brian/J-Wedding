@@ -49,8 +49,8 @@ function App() {
         {/* Hero Section with Background Image */}
         <section className="hero" style={{ backgroundImage: "url('/IMG_3118.JPG.jpeg')" }}>
           <div className="hero-content">
-            <h1 className="hero-title">AJ & Jessica's Wedding</h1>
-            <p className="hero-subtitle">Join us for our special day</p>
+            <h1 className="hero-title">AJ & Jessica</h1>
+            <p className="hero-subtitle">Formally invite you to their wedding celebration</p>
           </div>
           <div className="scroll-down-indicator">
             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">

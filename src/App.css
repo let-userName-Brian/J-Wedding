@@ -85,7 +85,7 @@ html, body, #root {
   letter-spacing: 1px;
   font-size: clamp(1.2rem, 4vw, 1.8rem);
   opacity: 0.9;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  text-shadow: 2px 4px 12px #000, 0 1px 0 #000;
 }
 
 .details-panel {
