@@ -392,6 +392,15 @@ html, body, #root {
   .scroll-down-indicator polyline:last-child {
     opacity: 0.5;
   }
+  .hero-subtitle {
+    max-width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: 1.3rem;
+    font-weight: 400;
+    letter-spacing: 1px;
+  }
 }
 
 @keyframes scrollBounce {
