@@ -467,6 +467,11 @@ html, body, #root {
     border-bottom: none;
     margin-bottom: 0;
   }
+  .detail-value {
+    max-width: 85%;
+    margin: 0 auto;
+    font-size: 1rem;
+  }
 }
 
 * {

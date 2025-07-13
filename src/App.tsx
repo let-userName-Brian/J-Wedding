@@ -73,7 +73,7 @@ function App() {
             </div>
             <div className="detail-row">
               <div className="detail-label">Attire</div>
-              <div className="detail-value">Black Tie</div>
+              <div className="detail-value">Black Tie<br/>(Suits for men, formal evening gowns for women)</div>
             </div>
             <div className="detail-row">
               <div className="detail-label">What's for Dinner?</div>
@@ -81,7 +81,7 @@ function App() {
             </div>
             <div className="detail-row">
               <div className="detail-label">Drinks</div>
-              <div className="detail-value">Cash bar</div>
+              <div className="detail-value">Sweet tea, lemonade, water<br/>Cash bar for alcoholic beverages</div>
             </div>
           </div>
           <div className="rsvp-row">
