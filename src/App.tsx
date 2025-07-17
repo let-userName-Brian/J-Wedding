@@ -73,7 +73,7 @@ function App() {
             </div>
             <div className="detail-row">
               <div className="detail-label">Attire</div>
-              <div className="detail-value">Black Tie<br/>(Suits for men, formal evening gowns for women)</div>
+              <div className="detail-value">Formal<br/>No jeans, cutoffs, t-shirts, hats, or flip-flops</div>
             </div>
             <div className="detail-row">
               <div className="detail-label">What's for Dinner?</div>
